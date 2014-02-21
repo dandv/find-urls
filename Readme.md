@@ -1,7 +1,6 @@
-
 # find-urls
 
-  Find all urls in a text
+Find all urls in a text using the [Component regular expression for URLs](https://github.com/component/regexps/blob/master/index.js#L3).
 
 ## Example
 
